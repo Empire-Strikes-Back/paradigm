@@ -1,0 +1,45 @@
+i am paradigm game program, i say this is the world of Paradigm Triplanetary System:
+
+4 factions
+  plex (red and black, complicated steel like structures, control)
+  vitaal (lazure blue, white,energy - highly eveolved)
+  abstract (shadowy)
+  tribes (multicolor, patchy, small ships)
+
+abstract
+
+  were before plex
+  academic, learners
+  want to learn to detroy spacetime
+  willingly use plex as workforce
+
+vitaal
+
+  the only who can use datum particles 
+  abstract want to obtain that knowledge
+  build most advacned ships, use enegry and datum particles
+  learned there is a a planet with inofromation on how to do intergalactic travels
+  so did plex and tribes - both searching for it; abstract think it's insignificant in comparison to disovling spacetime
+
+tribes
+
+  mostly live on the outer rim
+  build light small ships, from parts and pieces, multicolor, patchy style
+  move in fleets
+  always opressed by plex to work for them
+  don't like vitaal, plex or abstract
+
+plex
+
+  complex, bureaucratic, control
+  build most coplicated enormous structures, heavy, colors of red and steel
+  so complex, they can only be maintained by countless workforce
+  hate vitaal and are respectful to abstract, despise tribes
+  want to take over everything
+
+gameplay
+
+i give players a map of space - planets and fleets (very very light and air-y and colorful and disctict, but with a scent of of Imperium Galactica 2 and Heroes of Might and Magic 3)
+players porgram their fleets and use planets, then battle and conquest victory
+when players program, they say "over the next 10 cycles, this fleet moves like this, and if that and that, does else instead"
+players look at the map, what planet and fleet positions are and program their behavior for next time i run the simulation cycle, then see fleets combat, resources collected

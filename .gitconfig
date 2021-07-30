@@ -1,0 +1,5 @@
+[user]
+	email = paradigm@program
+	name = paradigm
+
+# git config --local include.path ../.gitconfig
