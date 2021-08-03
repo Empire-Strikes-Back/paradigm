@@ -18,4 +18,13 @@ main(){
     -M -m paradigm.main
 }
 
+uberjar(){
+  clj \
+    -X:uberjar genie.core/process \
+    :uberjar-name out/paradigm.standalone.jar \
+    :main-ns paradigm.main
+  mkdir -p out/jpackage-input
+  mv out/paradigm.standalone.jar out/jpackage-input/
+}
+
 "$@"
