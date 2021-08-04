@@ -25,7 +25,7 @@
   (let [data-dir (-> (io/file (System/getProperty "user.dir")) (.getCanonicalPath))]
     (add-watch stateA :watch-fn (fn [k stateA old-state new-state] new-state))
 
-    (let [jframe (JFrame. "paradigm")]
+    (let [jframe (JFrame. "i am paradigm program")]
       (doto jframe
         (.setDefaultCloseOperation JFrame/EXIT_ON_CLOSE)
         (.setSize 1600 1200)
